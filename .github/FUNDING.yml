@@ -1,0 +1,26 @@
+github:
+  - username: 77svene
+  - repo: ai-gateway
+
+patreon:
+  - username: 77svene
+
+open_collective: evomindoffer
+
+ko_fi: evomindoffer
+
+custom:
+  - "https://gumroad.com/l/ai-gateway"
+  - "https://buymeacoffee.com/evomindoffer"
+
+sponsors:
+  - tier: "⬡ Sponsor"
+    monthlyPrice: 5
+  - tier: "⬢ Bronze Sponsor"
+    monthlyPrice: 10
+  - tier: "◆ Silver Sponsor"
+    monthlyPrice: 25
+  - tier: "★ Gold Sponsor"
+    monthlyPrice: 50
+  - tier: "★ Platinum Sponsor"
+    monthlyPrice: 100
